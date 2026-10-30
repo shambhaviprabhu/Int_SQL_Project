@@ -22,7 +22,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**  
 
-![**CustomerSegmentation : Total LTV Distribution**](/Scripts/Images/1_customer_segementation.png)
+![**CustomerSegmentation : Total LTV Distribution**](/Images/1_customer_segementation.png)
 
 
 **📊 Key Findings:**  
@@ -45,12 +45,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 **📈 Visualization:**
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date  
 
-![**Customer Revenue By First Purchase Year**](/Scripts/Images/2_customer_revenue_normalized.png)
-
+![**Customer Revenue By First Purchase Year**](/Images/2_customer_revenue_normalized.png)
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)  
 
-![Monthly Net Revenue And Customer Trends(3 Month Rolling Average)](/Scripts/Images/3_monthly_revenue_customers_3mo.png)
+![Monthly Net Revenue And Customer Trends(3 Month Rolling Average)](/Images/3_monthly_revenue_customers_3mo.png)
 
 
 **📊 Key Findings:**  
@@ -74,7 +73,7 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 - Calculated customer-specific metrics  
 **📈 Visualization:**  
 
-![4_customer_churn_cohort_year](/Scripts/Images/4_customer_churn_cohort_year.png)
+![4_customer_churn_cohort_year](/Images/4_customer_churn_cohort_year.png)
 
 
 **📊 Key Findings:**
